@@ -34,6 +34,6 @@ docs:
   - title: PLSQL专区
     children:
       - title: "PLSQL依赖分析"
-        url: /home/
+        url: /manuals/plsql-analysis/
       - title: "PLSQL转Kotlin"
-        url: /home/
+        url: /manuals/plsql-transform/
