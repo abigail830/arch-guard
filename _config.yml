@@ -31,10 +31,11 @@ repository: "abigail830/arch-guard"
 
 # Build settings
 theme: minimal-mistakes-jekyll
-# minimal_mistakes_skin: dark
+# minimal_mistakes_skin: dirt
 plugins:
   - jekyll-feed
 
+include: ["_manuals"]
 
 defaults:
   # _posts

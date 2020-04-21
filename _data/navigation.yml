@@ -1,15 +1,39 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "About"
+  - title: "操作手册"
+    url: /manuals/env-prepare/
+  - title: "关于我们"
     url: /about/
 
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /2020/04/20/doc.html 
-  - title: Install
+      - title: "环境准备"
+        url: /manuals/env-prepare/
+      - title: "安装下载"
+        url: /manuals/download/
+  - title: 业务导向的架构评估
     children:
-      - title: "Environment Setup"
-        url: /index
+      - title: "评估操作"
+        url: /manuals/arch-evaluate/
+  - title: 智能辅助的改造工具
+    children:
+      - title: 分析工具
+        url: /manuals/arch-analysis/
+      - title: 改造工具
+        url: /manuals/arch-refactor/
+      - title: 测试工具
+        url: /manuals/arch-test/
+  - title: 全时多维的架构守护
+    children:
+      - title: "守护配置"
+        url: /manuals/arch-guard/
+      - title: "预警配置"
+        url: /manuals/arch-alert/
+  - title: PLSQL专区
+    children:
+      - title: "PLSQL依赖分析"
+        url: /home/
+      - title: "PLSQL转Kotlin"
+        url: /home/
