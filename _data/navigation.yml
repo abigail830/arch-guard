@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about/
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /2020/04/20/doc.html 
+  - title: Install
+    children:
+      - title: "Environment Setup"
+        url: /index
