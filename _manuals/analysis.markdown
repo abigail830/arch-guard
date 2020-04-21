@@ -34,7 +34,7 @@ permalink: /manuals/arch-analysis/
 
 #### 步骤：
 
-- 安装ArchGuard: [https://archguard.org/operationManual](https://archguard.org/operationManual)
+- 安装ArchGuard
 - 输入要扫描的项目的仓库地址
 - 点击"PL/SQL依赖工具"，进入工具
 - 点击"扫描代码"按钮，待扫描结束后，进行分析
