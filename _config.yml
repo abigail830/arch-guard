@@ -38,7 +38,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-include: ["_manuals"]
+include: 
+  - _manuals
+  - _models
 
 defaults:
   # _posts
