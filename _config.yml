@@ -18,9 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ArchGuard
+title: ""
 # subtitle: Everything as code, every code could be guard
 email: qian.ping@thoughtworks.com
+logo: "/assets/images/logo.png"
 description: Everything as code, every code could be guard
 baseurl: "/arch-guard" # the subpath of your site, e.g. /blog
 url: "https://abigail830.github.io" # the base hostname & protocol for your site, e.g. http://example.com

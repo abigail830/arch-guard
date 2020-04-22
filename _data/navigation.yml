@@ -1,6 +1,6 @@
 main:
-  - title: "Home"
-    url: /home/
+  - title: "ArchGuard"
+    url: /
   - title: "操作手册"
     url: /manuals/env-prepare/
   - title: "关于我们"
