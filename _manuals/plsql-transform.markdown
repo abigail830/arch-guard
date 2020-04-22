@@ -6,7 +6,6 @@ sidebar:
 permalink: /manuals/plsql-transform/
 ---
 
-## PL/SQL 转 Kotlin工具
 > 源自：ThoughtWorks (已集成ArchGuard)
 {: .notice--info}
 

@@ -6,15 +6,16 @@ sidebar:
 permalink: /manuals/plsql-analysis/
 ---
 
-## PL/SQL 转 Kotlin工具
-> 源自：ThoughtWorks （已集成ArchGuard）
+> 源自：ThoughtWorks (已集成ArchGuard)
 {: .notice--info}
 
 ### 工具适用场景：
-- 能解决80%的PL/SQL语法转kotlin
+
+- 分析PL/SQL的依赖关系，帮助拆分
 
 ### 步骤：
+
 - 安装ArchGuard
-- 点击"PL/SQL转Kotlin"，进入工具
-- 输入包名，将PL/SQL复制到左边的输入框
-- 点击"转换"，在右边的输入框查看结果
+- 输入要扫描的项目的仓库地址
+- 点击"PL/SQL依赖工具"，进入工具
+- 点击"扫描代码"按钮，待扫描结束后，进行分析
