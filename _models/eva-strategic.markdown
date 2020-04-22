@@ -9,13 +9,6 @@ toc: true
 
 ## 业务导向架构评估
 
-### 评估阶段常见痛点
-* 没有人能说清目前的业务和架构是怎样的、为什么这样
-* 业务复杂、架构混乱，靠人力评估的话对能力要求太高了
-* 没有统一的业务术语和架构表示方法，因而难以沟通
-* 从组织级层面看，系统太多，如何能规模化综合评估？
-* 评估出了改进项，但难以排定改造的优先级
-
 ### 策略目标
 > 聚焦业务价值最大方向，快速定向智能评估，务求架构决策更客观，投资更精准
 {: .notice--info}
@@ -24,6 +17,12 @@ toc: true
 * [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html)
 * [为什么要从业务价值导向架构决策？](https://zhuanlan.zhihu.com/p/111293116)
 
+### 评估阶段常见痛点
+* 没有人能说清目前的业务和架构是怎样的、为什么这样
+* 业务复杂、架构混乱，靠人力评估的话对能力要求太高了
+* 没有统一的业务术语和架构表示方法，因而难以沟通
+* 从组织级层面看，系统太多，如何能规模化综合评估？
+* 评估出了改进项，但难以排定改造的优先级
 
 ## 策略模型
 
@@ -37,7 +36,7 @@ toc: true
 
 #### 评估维度
 
-![市场响应力评估模型](/assets/images/market.png)
+![市场响应力评估模型](/arch-guard/assets/images/market.png)
 
 ### 质量评估模型
 > 质量：业务上线后，该业务是否能满足客户期望，有多少严重Bug
@@ -50,7 +49,7 @@ toc: true
 
 #### 评估维度
 
-![质量评估模型](/assets/images/quality.png)
+![质量评估模型](/arch-guard/assets/images/quality.png)
 
 ### 可用性评估模型
 > 可用性：业务不稳定，访问出错
@@ -62,7 +61,7 @@ toc: true
 
 #### 评估维度
 
-![可用性评估模型](/assets/images/reliability.png)
+![可用性评估模型](/arch-guard/assets/images/reliability.png)
 
 ### 开放性评估模型
 > 开放性：当出现出现创新性业务时，原有系统能不能很好的支撑
@@ -74,4 +73,4 @@ toc: true
 
 #### 评估维度
 
-![开放性评估模型](/assets/images/openable.png)
+![开放性评估模型](/arch-guard/assets/images/openable.png)
