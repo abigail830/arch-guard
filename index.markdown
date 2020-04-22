@@ -13,12 +13,9 @@ intro:
   - image_path: /assets/images/title.png
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
     title: "痛点一"
     excerpt: "系统庞大，业务复杂，如何快速响应市场需求？"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
     title: "痛点二"
     excerpt: "架构腐化，代码混乱，如何有效降低改造门槛？"
     # url: "#test-link"
@@ -29,7 +26,6 @@ feature_row:
     excerpt: "如何从总体上客观评估各系统架构并有效减缓腐化？"
 feature_row2:
   - image_path: /assets/images/assessment.png
-    alt: "placeholder image 2"
     title: "帮助您精准的做投资决策，提高投资性价比"
     excerpt: 'ArchGuard以业务价值为导向，对系统的项目的各个方面进行扫描评估，助力用户找到系统存在的薄弱环节'
     url: "/models/evaluate-rules/"
@@ -37,7 +33,6 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/tools.png
-    alt: "placeholder image 2"
     title: "帮助您高效的改造系统，降低改造门槛"
     excerpt: '通过多年ThoughtWorks改造经验总结，ArchGuard基于您系统的问题，向您推荐最适合的改造工具（自研/三方），自动，高效，安全的进行改造'
     url: "/models/transform-strategic/"
@@ -45,7 +40,6 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/guard.png
-    alt: "placeholder image 2"
     title: "帮助您持续的守护系统，减缓系统腐化"
     excerpt: 'ArchGuard支持个性化配置标准，在系统全生命周期及时预警，及时纠偏，以减缓系统腐化'
     url: "/models/guard-strategic/"
