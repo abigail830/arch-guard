@@ -6,8 +6,8 @@ sidebar:
 permalink: /manuals/arch-analysis/
 ---
 
-* [Java代码依赖分析](https://abigail830.github.io/arch-guard/manuals/arch-analysis/#java代码依赖分析工具)
-* [Tequlia工具](https://abigail830.github.io/arch-guard/manuals/arch-analysis/#tequlia工具)
+* [Java代码依赖分析](#java代码依赖分析工具)
+* [Tequlia工具](#tequlia工具)
 
 
 ## Java代码依赖分析工具

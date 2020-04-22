@@ -6,7 +6,7 @@ sidebar:
 permalink: /manuals/arch-test/
 ---
 
-* [A/B 测试套件](https://abigail830.github.io/arch-guard/manuals/arch-test/#ab-测试套件工具)
+* [A/B 测试套件](#ab-测试套件工具)
 
 ## A/B 测试套件工具
 > 源自：ThoughtWorks (未集成ArchGuard)
