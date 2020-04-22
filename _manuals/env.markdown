@@ -1,8 +1,12 @@
 ---
 layout: single
+title: Welcome
 sidebar:
   nav: "docs"
 permalink: /manuals/env-prepare/
 ---
 
-# 环境准备
+> Welcome to ArchGuard
+{: .notice--info}
+
+### Environment Preparation 

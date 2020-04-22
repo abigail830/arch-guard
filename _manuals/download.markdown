@@ -1,11 +1,10 @@
 ---
 layout: single
+title： 安装下载
 sidebar:
   nav: "docs"
 permalink: /manuals/download/
 ---
-
-# Installation
 
 ### Step1. 安装docker
 

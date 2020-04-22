@@ -1,16 +1,15 @@
 ---
 layout: single
+title: 测试工具
 sidebar:
   nav: "docs"
 permalink: /manuals/arch-test/
 ---
 
-# 测试工具
 
 ## A/B 测试套件工具
-
-  源自：ThoughtWorks
-  状态：未集成ArchGuard
+> 源自：ThoughtWorks (未集成ArchGuard)
+{: .notice--warning}
 
 ### 工具适用场景：
 

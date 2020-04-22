@@ -23,17 +23,19 @@ title: ArchGuard
 email: qian.ping@thoughtworks.com
 description: Everything as code, every code could be guard
 baseurl: "/arch-guard" # the subpath of your site, e.g. /blog
-url: "abigail830.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://abigail830.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
 github_username:  abigail830
 
 repository: "abigail830/arch-guard"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+# theme: minimal-mistakes-jekyll
 # minimal_mistakes_skin: dirt
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include: ["_manuals"]
 

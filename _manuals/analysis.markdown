@@ -1,11 +1,11 @@
 ---
 layout: single
+title: 分析工具
 sidebar:
   nav: "docs"
 permalink: /manuals/arch-analysis/
 ---
 
-# 分析工具
 
 ## Java代码依赖分析工具
 
