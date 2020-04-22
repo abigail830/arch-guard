@@ -9,21 +9,20 @@ header:
     - label: "Getting Start"
       url: "/manuals/env-prepare/"
 excerpt: "沉淀了我们遗留系统现代化改造经验，向您提供遗留系统现代化全过程中策略定制，改造工具，以及演进架构的帮助"
-intro: 
-  - image_path: /assets/images/title.png
+intro1: 
+  - excerpt: "如果你有遇到以下的苦恼。。。"
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    title: "痛点一"
-    excerpt: "系统庞大，业务复杂，如何快速响应市场需求？"
+    # title: "痛点一"
+    # excerpt: "系统庞大，业务复杂，如何快速响应市场需求？"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "痛点二"
-    excerpt: "架构腐化，代码混乱，如何有效降低改造门槛？"
-    # url: "#test-link"
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
+    # title: "痛点二"
+    # excerpt: "架构腐化，代码混乱，如何有效降低改造门槛？"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "痛点三"
-    excerpt: "如何从总体上客观评估各系统架构并有效减缓腐化？"
+    # title: "痛点三"
+    # excerpt: "如何从总体上客观评估各系统架构并有效减缓腐化？"
+intro2: 
+  - image_path: /assets/images/title.png
 feature_row2:
   - image_path: /assets/images/assessment.png
     title: "帮助您精准的做投资决策，提高投资性价比"
@@ -47,11 +46,11 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-
+{% include feature_row id="intro1" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro2" type="center" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
