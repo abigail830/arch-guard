@@ -6,6 +6,9 @@ sidebar:
 permalink: /manuals/arch-analysis/
 ---
 
+* [Java代码依赖分析](https://abigail830.github.io/arch-guard/manuals/arch-analysis/#java代码依赖分析工具)
+* [Tequlia工具](https://abigail830.github.io/arch-guard/manuals/arch-analysis/#tequlia工具)
+
 
 ## Java代码依赖分析工具
 
@@ -19,25 +22,11 @@ permalink: /manuals/arch-analysis/
 - 查看各个类的调用链，帮助迅速理解类的作用范围
 
 #### 步骤：
-- 安装ArchGuard: [https://archguard.org/operationManual](https://archguard.org/operationManual)
+- 安装ArchGuard
 - 输入要扫描的项目的仓库地址
 - 点击"调用依赖工具"，进入工具
 - 点击"扫描代码"按钮，待扫描结束后，进行分析
 
-## PL/SQL依赖分析工具
-> 源自：ThoughtWorks，(已集成在ArchGuard)
-{: .notice--info}
-
-#### 工具适用场景：
-
-- 分析PL/SQL的依赖关系，帮助拆分
-
-#### 步骤：
-
-- 安装ArchGuard
-- 输入要扫描的项目的仓库地址
-- 点击"PL/SQL依赖工具"，进入工具
-- 点击"扫描代码"按钮，待扫描结束后，进行分析
 
 ## Tequlia工具
 > 源自：李新（前ThoughtWorks咨询师）
