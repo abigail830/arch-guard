@@ -1,6 +1,6 @@
 ---
 layout: single
-title： 安装下载
+title: 安装下载
 sidebar:
   nav: "docs"
 permalink: /manuals/download/
