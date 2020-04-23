@@ -23,6 +23,8 @@ models:
         url: /models/transform-strategic/
       - title: "改造模式"
         url: /models/transform-models/
+      - title: "改造方法与工具"
+        url: /models/transform-tools/
   - title: "------ 守护 ------"
     children:
       - title: "守护策略"
