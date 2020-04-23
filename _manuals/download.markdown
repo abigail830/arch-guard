@@ -1,6 +1,9 @@
 ---
 layout: single
-title: 安装下载
+title: 操作手册｜安装下载
+header:
+  overlay_filter: "rgba(99, 183, 175, 0.7)"
+  overlay_image: /assets/images/background2.jpg
 sidebar:
   nav: "docs"
 permalink: /manuals/download/

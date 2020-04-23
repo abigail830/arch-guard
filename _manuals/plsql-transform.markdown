@@ -1,6 +1,9 @@
 ---
 layout: single
-title: PLSQL转Kotlin
+title: 操作手册｜PLSQL转Kotlin
+header:
+  overlay_filter: "rgba(99, 183, 175, 0.7)"
+  overlay_image: /assets/images/background2.jpg
 sidebar:
   nav: "docs"
 permalink: /manuals/plsql-transform/

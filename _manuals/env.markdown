@@ -1,8 +1,12 @@
 ---
 layout: single
-title: Welcome
+title: 操作手册｜Welcome
+header:
+  overlay_filter: "rgba(99, 183, 175, 0.7)"
+  overlay_image: /assets/images/background2.jpg
 sidebar:
   nav: "docs"
+class: wide
 permalink: /manuals/env-prepare/
 ---
 

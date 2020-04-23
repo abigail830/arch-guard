@@ -1,18 +1,20 @@
 ---
-layout: single
-title: About
+title: About|关于我们
+excerpt: "前无古人后无来者的架构守护神"
+layout: splash
+header:
+  overlay_filter: "rgba(99, 183, 175, 0.7)"
+  overlay_image: /assets/images/unsplash-image-1.jpg
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You can find the source code for ArchGuard at GitHub:
+[Github](https://github.com/archguard)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We are from ThoughtWorks:
+[ThoughtWorks][https://www.thoughtworks.com/] /
+[ThoughtWorks洞见](https://insights.thoughtworks.cn/) /
+[ThoughtWorks DDD 知乎专栏](https://zhuanlan.zhihu.com/c_137428247)
 
 
-[jekyll-organization]: https://github.com/jekyll
+

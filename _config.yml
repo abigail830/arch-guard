@@ -22,6 +22,7 @@ title: ""
 # subtitle: Everything as code, every code could be guard
 email: qian.ping@thoughtworks.com
 logo: "/assets/images/logo.png"
+og_image: /assets/images/logo.png
 description: Everything as code, every code could be guard
 baseurl: "/arch-guard" # the subpath of your site, e.g. /blog
 url: "https://abigail830.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -42,16 +43,21 @@ include:
   - _manuals
   - _models
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: true
-      related: true
+
+
+# defaults:
+#   _models
+#   - scope:
+#       path: "/models"
+#     values:
+#       layout: single
+#       read_time: true
+#       related: true
+#       header:
+#         overlay_filter: "rgba(99, 183, 175, 0.7)"
+#         overlay_image: /assets/images/background.jpg
+#       sidebar:
+#         nav: "models"
 
 
 # Exclude from processing.

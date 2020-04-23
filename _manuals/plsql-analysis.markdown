@@ -1,6 +1,9 @@
 ---
 layout: single
-title: PLSQL依赖分析
+title: 操作手册｜PLSQL依赖分析
+header:
+  overlay_filter: "rgba(99, 183, 175, 0.7)"
+  overlay_image: /assets/images/background2.jpg
 sidebar:
   nav: "docs"
 permalink: /manuals/plsql-analysis/
