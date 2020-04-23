@@ -3,7 +3,7 @@ title: "ArchGuard"
 layout: splash
 header:
   overlay_filter: "rgba(99, 183, 175, 0.7)"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/background.jpg
   actions:
     - label: "Getting Start"
       url: "/manuals/env-prepare/"
