@@ -22,9 +22,6 @@ feature_row:
     # excerpt: "如何从总体上客观评估各系统架构并有效减缓腐化？"
 intro2: 
   - image_path: /assets/images/title.png
-    url: "/models/about-archguard/"
-    btn_label: "Know More"
-    btn_class: "btn--info"
 feature_row2:
   - image_path: /assets/images/assessment.png
     title: "帮助您精准的做投资决策，提高投资性价比"
