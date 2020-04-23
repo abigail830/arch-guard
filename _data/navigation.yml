@@ -3,6 +3,8 @@ main:
     url: /models/about-archguard/
   - title: "操作手册"
     url: /manuals/env-prepare/
+  - title: "资料库"
+    url: /documents/
   - title: "关于我们"
     url: /about/
 
@@ -61,3 +63,7 @@ docs:
         url: /manuals/plsql-analysis/
       - title: "PLSQL转Kotlin"
         url: /manuals/plsql-transform/
+  - title: 其他
+    children:
+      - title: "功能规划"
+        url: /manuals/plan/
