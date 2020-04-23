@@ -7,5 +7,6 @@ header:
 sidebar:
   nav: "docs"
 permalink: /manuals/arch-evaluate/
+toc: true
 ---
 

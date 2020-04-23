@@ -7,4 +7,5 @@ header:
 sidebar:
   nav: "models"
 permalink: /models/guard-strategic/
+toc: true
 ---

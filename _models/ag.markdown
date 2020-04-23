@@ -7,5 +7,6 @@ header:
 sidebar:
   nav: "models"
 permalink: /models/about-archguard/
+toc: true
 ---
 

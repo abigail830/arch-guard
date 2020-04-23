@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/background2.jpg
 sidebar:
   nav: "docs"
-class: wide
+toc: true
 permalink: /manuals/env-prepare/
 ---
 

@@ -7,6 +7,7 @@ header:
 sidebar:
   nav: "docs"
 permalink: /manuals/arch-test/
+toc: true
 ---
 
 * [A/B 测试套件](#ab-测试套件工具)

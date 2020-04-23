@@ -7,6 +7,7 @@ header:
 sidebar:
   nav: "docs"
 permalink: /manuals/arch-alert/
+toc: true
 ---
 
 

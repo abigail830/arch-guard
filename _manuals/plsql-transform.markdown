@@ -7,6 +7,7 @@ header:
 sidebar:
   nav: "docs"
 permalink: /manuals/plsql-transform/
+toc: true
 ---
 
 > 源自：ThoughtWorks (已集成ArchGuard)

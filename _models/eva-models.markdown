@@ -7,5 +7,6 @@ header:
 sidebar:
   nav: "models"
 permalink: /models/evaluate-models/
+toc: true
 ---
 
