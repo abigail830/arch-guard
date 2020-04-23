@@ -25,6 +25,7 @@ toc: true
 
 ## Rebuild
 > 业务发生重大变化时，新写的成本低于重构的成本，可以使用最新的技术栈，提高开发效率，系统质量
+{: .notice--info}
 
 ## Repurchase
 Buy or build is always a question ^_^
