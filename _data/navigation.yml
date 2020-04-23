@@ -9,7 +9,7 @@ main:
 models:
   - title: "关于ArchGuard"
     url: /models/about-archguard/
-  - title: "- 评估 -"
+  - title: "------ 评估 ------"
     children:
       - title: "评估策略"
         url: /models/evaluate-strategic/
@@ -17,11 +17,13 @@ models:
         url: /models/evaluate-models/
       - title: "评估方法"
         url: /models/evaluate-rules/
-  - title: "- 改造 -"
+  - title: "------ 改造 ------"
     children:
       - title: "改造策略"
         url: /models/transform-strategic/
-  - title: "- 守护 -"
+      - title: "改造手段"
+        url: /models/transform-models/
+  - title: "------ 守护 ------"
     children:
       - title: "守护策略"
         url: /models/guard-strategic/

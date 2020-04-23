@@ -6,6 +6,7 @@ header:
   overlay_filter: "rgba(99, 183, 175, 0.7)"
   overlay_image: /assets/images/background.jpg
 permalink: /about/
+
 ---
 
 You can find the source code for ArchGuard at GitHub:
@@ -15,6 +16,7 @@ We are from ThoughtWorks:
 [ThoughtWorks](https://www.thoughtworks.com/) /
 [ThoughtWorks洞见](https://insights.thoughtworks.cn/) /
 [ThoughtWorks DDD 知乎专栏](https://zhuanlan.zhihu.com/c_137428247)
+
 
 
 
