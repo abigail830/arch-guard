@@ -21,7 +21,7 @@ models:
     children:
       - title: "改造策略"
         url: /models/transform-strategic/
-      - title: "改造手段"
+      - title: "改造模式"
         url: /models/transform-models/
   - title: "------ 守护 ------"
     children:
