@@ -1,6 +1,4 @@
 main:
-  - title: "ArchGuard"
-    url: /
   - title: "策略·模式·方法"
     url: /models/evaluate-strategic/
   - title: "操作手册"
