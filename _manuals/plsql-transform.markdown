@@ -7,16 +7,15 @@ header:
 sidebar:
   nav: "docs"
 permalink: /manuals/plsql-transform/
-toc: true
 ---
 
 > 源自：ThoughtWorks (已集成ArchGuard)
 {: .notice--info}
 
-### 工具适用场景：
+### 工具适用场景
 - 能解决80%的PL/SQL语法转kotlin
 
-### 步骤：
+### 步骤
 
 - 安装ArchGuard: [https://archguard.org/operationManual](https://archguard.org/operationManual)
 - 点击"PL/SQL转Kotlin"，进入工具

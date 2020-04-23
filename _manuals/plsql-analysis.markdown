@@ -7,17 +7,16 @@ header:
 sidebar:
   nav: "docs"
 permalink: /manuals/plsql-analysis/
-toc: true
 ---
 
 > 源自：ThoughtWorks (已集成ArchGuard)
 {: .notice--info}
 
-### 工具适用场景：
+### 工具适用场景
 
 - 分析PL/SQL的依赖关系，帮助拆分
 
-### 步骤：
+### 步骤
 
 - 安装ArchGuard
 - 输入要扫描的项目的仓库地址
