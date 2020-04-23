@@ -26,7 +26,7 @@ feature_row2:
   - image_path: /assets/images/assessment.png
     title: "帮助您精准的做投资决策，提高投资性价比"
     excerpt: 'ArchGuard以业务价值为导向，对系统的项目的各个方面进行扫描评估，助力用户找到系统存在的薄弱环节'
-    url: "/models/evaluate-rules/"
+    url: "/models/evaluate-strategic/"
     btn_label: "架构评估"
     btn_class: "btn--primary"
 feature_row3:
